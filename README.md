@@ -21,7 +21,7 @@ These are **custom apps and utilities** designed to make your life easier when t
 
 | App | Description |
 |-----|-------------|
-| **[Mock Alerts](./MockAlerts/MockAlertsApp.zip)** | Simulate and trigger Dynatrace alerts and problems on-demand. Perfect for testing root-cause detection, validating alert delivery flows, experimenting with alert grouping and denoising, and triggering Dynatrace workflows with mocked alert events. |
+| **[Mock Alerts](./MockAlerts/README.md)** | Simulate and trigger Dynatrace alerts and problems on-demand. Perfect for testing root-cause detection, validating alert delivery flows, experimenting with alert grouping and denoising, and triggering Dynatrace workflows with mocked alert events. |
 
 ## Getting Started
 
